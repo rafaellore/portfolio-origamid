@@ -20,10 +20,9 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("../img/detalhe.svg") no-repeat center;
   position: absolute;
   top: -15px;
-  left: -40px;
+  left: -50px;
   z-index: -1;
 }
 
